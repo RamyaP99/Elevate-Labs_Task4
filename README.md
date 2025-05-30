@@ -3,7 +3,7 @@
 This project delivers an interactive dashboard built in Power BI, designed for business stakeholders to explore key sales and profitability metrics by product, region, and channel. It enables data-driven decision-making with intuitive visuals and filters.
 
 #### Dataset
-Source: Kaggle - Sales Dataset with Power BI Dashboard
+Source: (https://www.kaggle.com/datasets/abdallahprogrammer/sales-dataset-with-power-bi-dashboard)
 
 Key Fields: OrderDate, Product, ProductCategory, OrderQty, LineTotal, TaxAmt, Freight, TotalDue, TerritoryGroup, Region, OnlineOrderFlag
 
